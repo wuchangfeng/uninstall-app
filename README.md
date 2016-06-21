@@ -1,5 +1,5 @@
-# Automatic-unistall-App
-A python script for unistalling  the  app  in your Phone or  Simulator automatically
+# Automatic-uninstall-App
+A python script for uninstalling  the  app  in your Phone or  Simulator automatically
 
 ## About 
 开发 Android 的朋友,模拟器或者手机里面常常有大量调试的 Demo，对于手机来说还好，可是对于模拟器，有可能就会造成调试速度以及启动速度的下降。
