@@ -10,6 +10,8 @@ A python script for unistalling  the  app  in your Phone or  Simulator automatic
 
 ![](http://7xrl8j.com1.z0.glb.clouddn.com/Use.gif)
 
+[another Gif see Here](http://7xrl8j.com1.z0.glb.clouddn.com/autoDelete.gif)
+
 ## Usage
 
 *  确保你的 AS 能够使用 ADB 命令
