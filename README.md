@@ -4,7 +4,9 @@ A python script for unistalling  the  app  in your Phone or  Simulator automatic
 ## About 
 开发 Android 的朋友,模拟器或者手机里面常常有大量调试的 Demo，对于手机来说还好，可是对于模拟器，有可能就会造成调试速度以及启动速度的下降。
 而且模拟器中 App 一个一个删除也是很麻烦。
-利用 adb 命令，我们可以做很多事，其中就包括批量操作模拟器或者手机上的 App。当然包括删除操作啦。
+利用 ADB 命令，我们可以做很多事，其中就包括批量操作模拟器或者手机上的 App。当然包括删除操作啦。
+
+利用 Python 脚本和 ADB shell 命令以及 AS 自带的 CMD 窗口,我们就可以将这一切浓缩成一个命令行啦。
 
 ## Effect
 
