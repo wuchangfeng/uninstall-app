@@ -10,6 +10,12 @@ A python script for uninstalling  the  app  in your Phone or  Simulator automati
 
 利用 Python 脚本和 ADB shell 命令以及 AS 自带的 CMD 窗口,我们就可以将这一切浓缩成一个命令行啦。
 
+## Update
+**代码中我留了一个彩蛋，如果你想选择指定的应用删除，去掉下图中红色方框即可，同时注释掉 delAllApp() 这个函数即可。**
+
+![uninstall-help.png](http://7xrl8j.com1.z0.glb.clouddn.com/uninstall-help.png)
+
+
 ## Effect
 
 ![](http://7xrl8j.com1.z0.glb.clouddn.com/Use.gif)
