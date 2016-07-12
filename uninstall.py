@@ -21,7 +21,7 @@ def listAllpackage( ):
     os.popen('adb wait-for-device');
     corename = raw_input("input your app package corename:")
     oriPackages = os.popen('adb shell pm list packages {name}'.format(name=corename));
-
+    
     for oriPackage in oriPackages:
         deletePackage = oriPackage.split(':')[1]
         print str(i) + ":" + deletePackage
